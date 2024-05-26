@@ -34,5 +34,8 @@ Ambos os scripts requerem:
 ## Contribuindo
 Solicitações de pull são bem-vindas. Para mudanças significativas, por favor, abra uma issue primeiro para discutir o que você gostaria de alterar.
 
+## Código de Conduta
+Para garantir um ambiente aberto e acolhedor, nós, como contribuidores e mantenedores, comprometemo-nos com a participação em nosso projeto e em nossa comunidade uma experiência livre de assédio para todos. Por favor, leia o [Código de Conduta](CODIGO_DE_CONDUTA.md) para mais detalhes sobre nossas políticas de conduta.
+
 ## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENCA](LICENCA.md) para detalhes.
