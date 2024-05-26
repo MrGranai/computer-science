@@ -35,4 +35,4 @@ Ambos os scripts requerem:
 Solicitações de pull são bem-vindas. Para mudanças significativas, por favor, abra uma issue primeiro para discutir o que você gostaria de alterar.
 
 ## Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE.md) para detalhes.
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENCA](LICENCA.md) para detalhes.
