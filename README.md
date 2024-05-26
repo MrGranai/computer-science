@@ -32,7 +32,7 @@ Both scripts require:
 - Python 3.x
 
 ## Contributing
-Pull requests are welcome. For significant changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome. For significant changes, please open an issue first to discuss what you would like to change. Please read our [Code of Conduct](CODE_OF_CONDUCT.md) to understand the expectations for our participants.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
