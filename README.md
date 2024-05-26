@@ -2,6 +2,8 @@
 
 This repository contains Python scripts developed during the Bachelor's degree in Computer Science. Each script demonstrates the application of basic programming concepts.
 
+*Read this in another language: [Português](LEIAME.md)*
+
 ## Included Scripts
 
 ### Simple Student Grade Evaluation
