@@ -1,38 +1,38 @@
-# Repositório de Ciências da Computação
+# Computer Science Repository
 
-Este repositório contém scripts Python desenvolvidos durante o bacharelado em Ciências da Computação. Cada script demonstra a aplicação de conceitos básicos de programação.
+This repository contains Python scripts developed during the Bachelor's degree in Computer Science. Each script demonstrates the application of basic programming concepts.
 
-*Leia este arquivo em outro idioma: [English](README.md)*
+*Read this in another language: [Português](LEIAME.md)*
 
-## Scripts Incluídos
+## Included Scripts
 
-### Avaliação Simples de Notas de Estudantes
-Este script calcula a média das notas dos alunos e determina se eles estão aprovados ou reprovados com base em uma média de aprovação predefinida.
+### Simple Student Grade Evaluation
+This script calculates the average of students' grades and determines whether they are passed or failed based on a predefined passing average.
 
-#### Como Usar
-1. Clone o repositório para sua máquina local usando o comando:
+#### How to Use
+1. Clone the repository to your local machine using the command:
    `git clone https://github.com/MrGranai/computer-science.git`
-2. Navegue até o diretório clonado:
+2. Navigate to the cloned directory:
    `cd computer-science`
-3. Execute o script com Python 3:
+3. Run the script with Python 3:
    `python3 simple_student_grade_evaluation.py`
-4. Siga as instruções na tela para inserir o nome do aluno e as notas.
+4. Follow the on-screen instructions to enter the student's name and grades.
 
-### Operações Aritméticas Simples
-Este script realiza operações aritméticas básicas, demonstrando como executar adição, subtração, multiplicação e divisão em Python.
+### Simple Arithmetic Operations
+This script performs basic arithmetic operations, demonstrating how to execute addition, subtraction, multiplication, and division in Python.
 
-#### Como Usar
-1. Certifique-se de estar no diretório correto como indicado acima.
-2. Execute o script com Python 3:
+#### How to Use
+1. Ensure you are in the correct directory as indicated above.
+2. Run the script with Python 3:
    `python3 simple_arithmetic_operations.py`
-3. As operações são executadas automaticamente e os resultados são mostrados na tela.
+3. The operations are automatically executed and the results are displayed on the screen.
 
-## Dependências
-Ambos os scripts requerem:
+## Dependencies
+Both scripts require:
 - Python 3.x
 
-## Contribuindo
-Solicitações de pull são bem-vindas. Para mudanças significativas, por favor, abra uma issue primeiro para discutir o que você gostaria de alterar.
+## Contributing
+Pull requests are welcome. For significant changes, please open an issue first to discuss what you would like to change.
 
-## Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
