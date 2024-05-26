@@ -11,9 +11,9 @@ This script calculates the average of students' grades and determines whether th
 
 #### How to Use
 1. Clone the repository to your local machine using the command:
-   `git clone https://github.com/MrGranai/experience-with-code.git`
+   `git clone https://github.com/MrGranai/computer-science.git`
 2. Navigate to the cloned directory:
-   `cd experience-with-code`
+   `cd computer-science`
 3. Run the script with Python 3:
    `python3 simple_Student_Grade_Evaluation.py`
 4. Follow the on-screen instructions to enter the student's name and grades.
