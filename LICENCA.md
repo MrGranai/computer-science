@@ -1,4 +1,4 @@
-A Licença MIT (MIT)
+# A Licença MIT (MIT)
 
 Copyright (c) [2024] [Artur Granai Filho]
 
