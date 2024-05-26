@@ -15,7 +15,7 @@ Este script calcula a média das notas dos alunos e determina se eles estão apr
 2. Navegue até o diretório clonado:
    `cd computer-science`
 3. Execute o script com Python 3:
-   `python3 simple_Student_Grade_Evaluation.py`
+   `python3 simple_student_grade_evaluation.py`
 4. Siga as instruções na tela para inserir o nome do aluno e as notas.
 
 ### Operações Aritméticas Simples
